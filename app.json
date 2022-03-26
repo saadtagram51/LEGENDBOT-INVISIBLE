@@ -1,7 +1,7 @@
 {
-  "name": "Pro-LegendBot",
-  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Pro_UserBoy). Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "Invisible-LegendBot",
+  "description": "Tнє Smoothest And Fastest Bot Made By Invisible Legend (@MR_INVISIBLE_OFFICIAL). Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "success_url": "https://t.me/Pro_LegendBots",
+  "repository": "https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE/",
+  "website": "https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE/",
+  "success_url": "https://t.me/Invisible_LegendBot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『⚡- Lêɠêɳ̃dẞογ -⚡ 』",
+      "value": "『⚡- Invisibleẞογ -⚡ 』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -30,57 +30,57 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
-      "value": "@LegendBot_Pros",
+      "value": "@Invisible_LegendBot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@Pro_LegendBots",
+      "value": "@Official_Invisible_LegendBot",
       "required": false
     },
     "BOY_OR_GIRL": {
       "description": "Set Boy Or Girl. It Will Set Boy Like Boy Bot Else Set Like Girl Bot And Its Design",
-      "value": "Boy",
+      "value": "BAAP",
       "required": false
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "HELP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
@@ -95,7 +95,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "PM_MSG": {
@@ -129,7 +129,7 @@
     },
     "HANDLER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": "",
+      "value": "*",
       "required": false 
       },
     "API_HASH": {
@@ -140,7 +140,7 @@
       "description": "Paste Group Id Which U Get From @missrose_bot",
       "value": ""
     }, 
-    "PRO_STRING": {
+    "INVISIBLE_STRING": {
       "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
       "value": ""
     },
