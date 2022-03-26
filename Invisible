@@ -1,0 +1,46 @@
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $INVISIBLE_REPO == "INVISIBLEBOT" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXAL3G3ND=" | base64 -d
+    elif [[ $INVISIBLE_REPO == "INVISIBLEBOT" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXAL3G3ND=" | base64 -d
+    elif [[ $INVISIBLE_REPO =~ $regex ]]
+    then
+        if [[ $INVISIBLE_REPO_BRANCH ]]
+        then
+            echo "${INVISIBLE_REPO}/archive/${INVISIBLE_REPO_BRANCH}.zip"
+        else
+            echo "${INVISIBLE_REPO}/archive/Invisible.zip"
+        fi
+    else
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXAL3G3ND=" | base64 -d
+    fi
+}
+
+
+_invisible_bot () {
+    local zippath
+    zippath="Invisible.zip"
+    echo "  🔰 Downloading Invisible-LegendBot Source Code... 🔰"
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  📍Unpacking Data...📍"
+    INVISIBLEPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo " 🏅 Download Complete Now Installing 🏅"
+    echo "  ✨ INSTALLING INVISIBLE LEGENDBOT ✨"
+    rm -rf "$zippath"
+    sleep 5
+    cd $INVISIBLEPATH
+    echo "    ⚜️Starting Invisible Lêɠêɳ̃dẞøt⚜️     "
+    echo " ♥️ NOW WAIT 3 MIN INSTALLING ALL PLUGIN ♥️"
+
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_invisible_bot
