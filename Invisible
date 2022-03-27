@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $INVISIBLE_REPO == "INVISIBLEBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXAL3G3ND=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01SLUlOVklTSUJMRUJPWS9JTlZJU0lCTEVVU0VSQk9UL2FyY2hpdmUvSW52aXNpYmxlLnppcA==" | base64 -d
     elif [[ $INVISIBLE_REPO == "INVISIBLEBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXAL3G3ND=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01SLUlOVklTSUJMRUJPWS9JTlZJU0lCTEVVU0VSQk9UL2FyY2hpdmUvSW52aXNpYmxlLnppcA==" | base64 -d
     elif [[ $INVISIBLE_REPO =~ $regex ]]
     then
         if [[ $INVISIBLE_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${INVISIBLE_REPO}/archive/Invisible.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXAL3G3ND=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01SLUlOVklTSUJMRUJPWS9JTlZJU0lCTEVVU0VSQk9UL2FyY2hpdmUvSW52aXNpYmxlLnppcA==" | base64 -d
     fi
 }
 
