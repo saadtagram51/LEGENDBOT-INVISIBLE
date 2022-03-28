@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I Am Pro Person Because I am User Of Pro LegendBot 🇮🇳.",
+      "value": "I Am Pro Person Because I am User Of Invisible LegendBot 🇮🇳.",
       "required": true
     },
     "PM_PIC": {
@@ -118,7 +118,7 @@
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Pro LegendBot Group",
+      "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Invisible LegendBot Group",
       "value": "",
       "required": false
     },
@@ -141,7 +141,7 @@
       "value": ""
     }, 
     "INVISIBLE_STRING": {
-      "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
+      "description": "Get this value by running https://replit.com/@LEGEND-LX/PRO-LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
