@@ -2,7 +2,7 @@
 <b> Invisible Lêɠêɳ̃dẞø† </b>
 </h1>
 
-[![INVISIBLE-LEGENDBOT](https://te.legra.ph/file/8b012f55fc4238151d169.jpg)](https://github.com/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT)
+[![INVISIBLE-LEGENDBOT](https://te.legra.ph/file/8b012f55fc4238151d169.jpg)](https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE)
 
 <h6 align="center">
   <b>⭐̲ Invisible LegendBot Is One Of The Unique & Fastest & Smoothest Ultra Speedo Bot On Telegram Based on Telethon ⭐̲</b>
