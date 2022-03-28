@@ -32,7 +32,7 @@ _invisible_bot () {
     INVISIBLEPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo " 🏅 Download Complete Now Installing 🏅"
-    echo "  ✨ INSTALLING INVISIBLE LEGENDBOT ✨"
+    echo "  ✨ INSTALLING GOD INVISIBLE LEGENDBOT ✨"
     rm -rf "$zippath"
     sleep 5
     cd $INVISIBLEPATH
