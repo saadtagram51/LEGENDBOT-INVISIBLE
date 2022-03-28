@@ -1,18 +1,18 @@
 {
-  "name": "Pro-LegendBot",
-  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Pro_UserBoy). Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "♦️ɪɴᴠɪ🅢ɪʙʟᴇ᭄ʟɛɢɛռɖβοτ♦️",
+  "description": "Tнє Smoothest And Fastest Bot Made By Invisible Legend (@MR_INVISIBLE_OFFICIAL). Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/996746ae9b0fa48bcbec3.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "pro",
+    "invisible",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "success_url": "https://t.me/Pro_LegendBots",
+  "repository": "https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE/",
+  "website": "https://github.com/MR-INVISIBLEBOT/LEGENDBOT-INVISIBLE/",
+  "success_url": "https://t.me/Invisible_LegendBot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -20,72 +20,72 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『⚡- Lêɠêɳ̃dẞογ -⚡ 』",
+      "value": "『⚡ɪɴᴠɪ🅢ɪʙʟᴇ᭄ʟɛɢɛռɖẞογ⚡ 』",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
+      "description": "Set Custom Alive Message When entering .alive Or .invisible  Command.",
       "value": "",
       "required": false
     },
     "ABUSE": {
       "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
-      "value": "@LegendBot_Pros",
+      "value": "@Invisible_LegendBot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@Pro_LegendBots",
+      "value": "@Official_Invisible_LegendBot",
       "required": false
     },
     "BOY_OR_GIRL": {
       "description": "Set Boy Or Girl. It Will Set Boy Like Boy Bot Else Set Like Girl Bot And Its Design",
-      "value": "Boy",
+      "value": "BAAP",
       "required": false
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "HELP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Put here any emoji. Which Will be Show When U Do .alive.",
-      "value": "",
+      "value": "💥",
       "required": false
     },
     "BIO_MSG": {
@@ -95,7 +95,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://te.legra.ph/file/8b012f55fc4238151d169.jpg",
       "required": false
     },
     "PM_MSG": {
@@ -118,9 +118,9 @@
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Pro LegendBot Group",
-      "value": "",
-      "required": false
+      "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Invisible LegendBot Group",
+      "value": "5267090352",
+      "required": true
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
@@ -129,7 +129,7 @@
     },
     "HANDLER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": "",
+      "value": "*",
       "required": false 
       },
     "API_HASH": {
@@ -140,7 +140,7 @@
       "description": "Paste Group Id Which U Get From @missrose_bot",
       "value": ""
     }, 
-    "PRO_STRING": {
+    "INVISIBLE_STRING": {
       "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
       "value": ""
     },
@@ -174,12 +174,12 @@
     },
     "HELP_EMOJI1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "݆ۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗ𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭",
       "required": false
     },
     "HELP_EMOJI2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "݆ۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗ𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭",
       "required": false
     },
     "PM_DATA": {
