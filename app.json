@@ -23,6 +23,11 @@
       "value": "『⚡ɪɴᴠɪ🅢ɪʙʟᴇ᭄ʟɛɢɛռɖẞογ⚡ 』",
       "required": false
     },
+    "RISHABH_AI": {
+      "description": "Replace password to your 2step password your 2-Step is off then replaced off then replace session to your telethon session
+     "value": " PASSWORD/SESSION ",
+     "required": true
+    },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .invisible  Command.",
       "value": "",
