@@ -24,7 +24,7 @@
       "required": false
     },
     "RISHABH_AI": {
-      "description": "Replace password to your 2step password your 2-Step is off then replaced off then replace session to your telethon session
+      "description": "Replace password to your 2step password your 2-Step is off then replaced off then replace session to your telethon session"
      "value": " PASSWORD/SESSION ",
      "required": true
     },
@@ -215,3 +215,4 @@
     "url": "heroku/python"
   }]
 }
+
