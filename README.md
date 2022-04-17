@@ -1,7 +1,14 @@
-![photo_2022-03-23_08-09-09](https://te.legra.ph/file/b5d175baa056b266233af.jpg)
-<h1 align="center">
-<b> Invisible Lêɠêɳ̃dẞø† </b>
-</h1>
+<h2 align="center"><b> ⠐💥💫Personal ★LegendBot-LI】Information💫💥 ⠐ </b></h2>
+
+<p align='Middle'><a href='https://t.me/MRINVISIBLE_OFFICIAL'><img src='https://te.legra.ph/file/b5d175baa056b266233af.jpg' width='750"'></a></p>
+<p align="center">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓+𝒇𝒓𝒐𝒎+Rajasthan%E2%9C%8C%EF%B8%8F;PHP%2C+Linux%2C+Hack%2C+Telethon%2C+Pyrogram%2C+Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=INVISIBLE+BOY+Hacker+DarkWeb+NAGPURE%E2%9C%8C%EF%B8%8F;INVISIBLE%2C+OP%2C+OPBOTS%2C+BOTS%2C+MUSIC%2C+HACKER%2C+HACKBOT%2C+USERBOT%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
 
 [![INVISIBLE-LEGENDBOT](https://te.legra.ph/file/8b012f55fc4238151d169.jpg)](https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE)
 
