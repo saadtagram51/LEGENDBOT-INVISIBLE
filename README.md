@@ -33,7 +33,7 @@
 
 - <a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE/network/members"><img src="https://img.shields.io/github/forks/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
-- <a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE/stargazers"><img src="https://img.shields.io/github/stars/MR-INVISIBLEBOY/ILEGENDBOT-INVISIBLE?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE"></a><p align="left"><a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE?"></a>
+- <a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE/stargazers"><img src="https://img.shields.io/github/stars/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE"></a><p align="left"><a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE?"></a>
 
 -----------
 
