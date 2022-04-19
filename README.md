@@ -27,24 +27,15 @@
 
 -----------
 
-<details>
 
-  <summary> • 💫 Status Of Bot 💫 • </summary>
- 
-<p align="left">
 
 -----------
 
 - <a href="https://github.com/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
-- <a href="https://github.com/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE"></a><p align="left"><a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT?"></a>
+- <a href="https://github.com/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE"></a><p align="left"><a href="https://github.com/MR-INVISIBLEBOY/INVISIBLE-LEGENDBOT?"></a>
 
 -----------
-</details>
-
-<details>
-
-  <summary> • 🏪 Telegram 🏪 • </summary>
 
 ---------
 
@@ -53,33 +44,15 @@
 
 -----------
 
-</details>
 
-<details>
 
-  <summary> • 📺 YouTube 📺 • </summary>
-
----------
-
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/xUnyW8qz6ZI)
-
---------
-
-</details>
-
-<details>
-
-  <summary> •🏅 Deploy Locally 🏅• </summary> 
-
------------
 
 - Clone the repo. 
 
 `git clone https://github.com/MR-INVISIBLEBOT/GANTA MERA NIKAL LOWDE.git`
 - Open Cloned Folder.
 
-`cd LEGENDBOT NEW`
+`cd LEGENDBOT-LI NEW`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -98,11 +71,6 @@
 
 -----------
 
-</details>
-
-<details>
-
-  <summary> • 📖 Variables 📖 • </summary> 
 
 -----------
 
@@ -115,11 +83,6 @@
 
 -----------
 
-</details>
-
-<details>
-
-  <summary> •🏅 REPL 🏅• </summary> 
 
 -----------
 
@@ -141,7 +104,7 @@
 
 - Now Run StringSession Given Below:
    
-## [![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py) 
+ 
 
 - Click On Generate String
 
@@ -153,11 +116,7 @@
 
 -----------
 
-</details>
-
-<details>
-
-  <summary> • 📍 Termux / Terminal 📍• </summary> 
+ 
 
 -----------
 
@@ -173,11 +132,7 @@
 
 -----------
 
-</details>
 
-<details>
-
-  <summary> • 🔱 Disclaimer 🔱• </summary> 
 
 -----------
 
@@ -191,11 +146,7 @@
 
 -----------
 
-</details>
 
-<details>
-
-  <summary> • LICENSE • </summary>
 
 -----------
 
@@ -224,5 +175,3 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 -----------
-
-</details>
